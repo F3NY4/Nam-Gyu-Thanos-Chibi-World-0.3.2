@@ -1,0 +1,7 @@
+{
+  "name":"namgyu-thanos-chibi-world-032",
+  "version":"0.3.2",
+  "private":true,
+  "scripts":{"start":"node server.js"},
+  "dependencies":{"express":"^5.1.0","socket.io":"^4.8.1"}
+}
